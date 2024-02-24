@@ -85,6 +85,3 @@ To enable specialized movie suggestions, obtain your OpenAI key and enter it in 
 If you'd like to contribute to this project, have suggestions for improvement, or wish to add more features, please feel free to submit issues or pull requests on [GitHub] (https://github.com/pushpakrai1607/Netflix-clone.git). Your contributions are valued! 🚀
 
 Thank you for exploring Netflix GPT. We hope it enhances your movie-watching experience! 🍿
-```
-
-Feel free to make any additional modifications or adjustments as needed.
